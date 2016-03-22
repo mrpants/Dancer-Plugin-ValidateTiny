@@ -279,7 +279,7 @@ Alexey Kolganov, C<< <kalgan@cpan.org> >>
 
 =head1 CONTRIBUTORS
 
-Michael Schwartz, C<< <mr.pants@gmail.com> >>
+Michael Schwartz, C<< <mrpants@cpan.org> >>
 
 =head1 COPYRIGHT AND LICENSE
 
